@@ -8,5 +8,7 @@ public class Main {
         System.out.println("que pasa");
         System.out.println("eeeeeeeeeeee");
         System.out.println("kawdnalkdnalndfal");
+        System.out.println("lfknaslfna");
+        System.out.println("noooo");
     }
 }
